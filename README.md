@@ -24,6 +24,6 @@ Exploring machine learning and diving deeper into web development.
 
 ## 📫 Let's Connect
 
-[![Instagram](https://img.icons8.com/ios-filled/50/000000/instagram-new--v1.png)](link-to-instagram) [![GitHub](https://img.icons8.com/material-sharp/48/000000/github.png)](https://rishabhops.github.io/)
+[![Instagram](https://img.icons8.com/ios-filled/50/000000/instagram-new--v1.png)](https://www.instagram.com/rishabhxd2/) [![GitHub](https://img.icons8.com/material-sharp/48/000000/github.png)](https://rishabhops.github.io/)
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just to say hi! 😊
