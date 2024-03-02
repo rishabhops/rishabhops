@@ -23,6 +23,6 @@ Exploring machine learning and diving deeper into web development.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](link-to-linkedin-logo)](link-to-linkedin) [![Twitter](link-to-twitter-logo)](link-to-twitter) [![Portfolio](link-to-portfolio-logo)](https://rishabhops.github.io/)
+[![LinkedIn](link-to-linkedin-logo)](link-to-linkedin) [![Twitter](link-to-twitter-logo)](link-to-twitter) [![Portfolio](https://icons8.com/icon/kdi6nQ1tYpvn/portfolio)](https://rishabhops.github.io/)
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just to say hi! 😊
