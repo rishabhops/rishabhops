@@ -4,6 +4,7 @@ I'm a passionate Python developer with a knack for creating innovative solutions
 
 <!-- Animated Developer GIF -->
 <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+
 ## 🔧 Skills
 
 - **Languages:** Python, JavaScript
@@ -23,6 +24,6 @@ Exploring machine learning and diving deeper into web development.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](link-to-linkedin-logo)](link-to-linkedin) [![Twitter](link-to-twitter-logo)](link-to-twitter) [![Portfolio](https://icons8.com/icon/kdi6nQ1tYpvn/portfolio)](https://rishabhops.github.io/)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](link-to-instagram) [![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://rishabhops.github.io/)
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just to say hi! 😊
