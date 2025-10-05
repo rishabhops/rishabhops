@@ -174,8 +174,4 @@ I manage multiple Telegram bots serving thousands of users daily while being a f
 
 ⭐️ From [rishabhops](https://github.com/rishabhops)
 
-</div>Confirmation:
-✅ NO Certifications & Achievements section
-✅ NO B.Tech mentioned
-✅ NO Chandigarh University mentioned
-✅ NO course namesJust copy this entire code and paste it into your GitHub README.md file!
+</div>
