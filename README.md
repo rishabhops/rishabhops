@@ -30,12 +30,16 @@ As the founder of **Thanos Pro Organization**, I lead a thriving community of **
 
 **Languages & Frameworks:**
 Python
+
 **Telegram Development:**
 Telethon  |  Pyrogram  |  Telegram Bot API  |  Session Management
+
 **Databases & Tools:**
 MongoDB  |  PostgreSQL  |  Git  |  Docker  |  VPS Deployment
+
 **Specialized Skills:**
-Multi-Account Management  |  Proxy Configuration  |  Bot Automation  |  API Integration
+Multi-Account Management  |  Proxy Configuration  |  Bot Automation  |  API Integrations 
+
 ---
 
 ## 🏆 Featured Projects
