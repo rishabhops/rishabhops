@@ -45,7 +45,7 @@ Multi-Account Management  |  Proxy Configuration  |  Bot Automation  |  API Inte
 ## 🏆 Featured Projects
 
 ### 🔐 [CipherElite Userbot](https://github.com/rishabhops/CipherElite_userbot)
-**Powerful Telegram Userbot with Elite Features**
+**Best telegram Userbot CipherElite: The ultimate Advanced Telegram Userbot (2026). Built with Python & Telethon. Automate group management, spam protection, and broadcasting easily. Supports Heroku, VPS, and Termux.**
 
 ![Stars](https://img.shields.io/github/stars/rishabhops/CipherElite_userbot?style=social)
 ![Forks](https://img.shields.io/github/forks/rishabhops/CipherElite_userbot?style=social)
