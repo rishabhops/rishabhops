@@ -5,7 +5,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@thanosceo-blue?style=for-the-badge&logo=telegram)](https://t.me/thanosceo)
 [![Email](https://img.shields.io/badge/Email-rishabhanand7583@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:rishabhanand7583@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@rishabhxd2-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/rishabhxd2)
+[![Instagram](https://img.shields.io/badge/Instagram-@xrishabhanand-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/xrishabhanand)
 [![YouTube](https://img.shields.io/badge/YouTube-Thanos_Pro-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@thanospross?si=9zcueM_me01H624P)
 
 </div>
@@ -143,7 +143,7 @@ I'm always open to collaborating on interesting projects and discussing innovati
 
 - **Email:** rishabhanand7583@gmail.com
 - **Telegram:** [@thanosceo](https://t.me/thanosceo)
-- **Instagram:** [@rishabhxd2](https://instagram.com/rishabhxd2)
+- **Instagram:** [@xrishabhanand](https://instagram.com/xrishabhanand)
 - **YouTube:** [Thanos Pro](https://youtube.com/@thanospross?si=9zcueM_me01H624P)
 
 ---
