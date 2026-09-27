@@ -145,6 +145,7 @@ I'm always open to collaborating on interesting projects and discussing innovati
 - **Telegram:** [@thanosceo](https://t.me/thanosceo)
 - **Instagram:** [@xrishabhanand](https://instagram.com/xrishabhanand)
 - **YouTube:** [Thanos Pro](https://youtube.com/@thanospross?si=9zcueM_me01H624P)
+- **Linkedin:** [xrishabhanand](www.linkedin.com/in/xrishabhanand)
 
 ---
 
